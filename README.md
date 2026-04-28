@@ -48,6 +48,20 @@ Cutoff: 6.0 Å (set internally by the model; no explicit cutoff needed in the in
 
 ---
 
+## Validation
+
+
+
+To recreate plots, install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+Then open and run the jupyter notebooks.
+
+---
+
 ## Notes
 
 - Both potentials are single-element (Bi only).
